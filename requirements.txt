@@ -1,6 +1,6 @@
-streamlit==1.21.0
-pandas==1.5.3
-numpy==1.23.5
-scikit-learn==1.2.2
-sklearn==0.0.post7
-sklearn-features==0.0.2
+streamlit
+pandas
+numpy
+scikit-learn
+sklearn
+sklearn-features
